@@ -40,8 +40,7 @@ Lamp socket ø: 40mm max
 
 ## Platforms
 
-- [Thingiverse](<to do>)
-- [Cults3D](<to do>)
+- [Thingiverse](https://www.thingiverse.com/thing:4372530)
 
 ## Licence
 
