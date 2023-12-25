@@ -7,10 +7,6 @@
 
 ![img1](./img-1.jpg)
 
-**Table of contents**:
-
-[[_TOC_]]
-
 ## Informations
 
 /////////////////////////////////////
